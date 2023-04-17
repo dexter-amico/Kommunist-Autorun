@@ -1,10 +1,10 @@
 # **Kommunist Autorun v0.1**
 
-This is a funny autorun executable that I made intended to be used inside a thumb drive or similaries, with the objective of making people aware of the potential risks of inserting unknow USB flash drives in their computer. The executable by itself does nothing, justa show a program screen with an image and playing some music, the only available button just closes the program.
+This is a funny autorun executable that I made using Py Installer and Tkinter. It's intended to be used inside a thumb drive or similaries, with the objective of making people aware of the potential risks of using USB flash drives from unknow sources in their computer, or inserting it elsewhere, mainly in public computers. The executable by itself does nothing, just show a program screen with an image and plays a background music, the only available button on the screen just closes the program without doing really anything.
 
-This program or any associated files to it doesn't do anything harmful or collect any data from the computer user, the sole objective here is to cause some extende of surprise to the user.
+In summary, this program or any associated files to it do not, or rather do not intend to, do anything harmful or collect any kind of data from the user's computer, the sole objective here is to cause some extende of surprise to the user through an unexpected screen and music poping without any kind of notice.
 
-**DISCLAIMER:** To avoid copyright problemas I'll not upload here images and sound used for my personal version, but if your really want to see something very close to what I did try searching for the URSS Hymn and the picture of communist Bugs Bunny...
+**DISCLAIMER:** To avoid any kind of copyright claims or legal issues I'll not upload the image and sound used by me on my personal iteration of it, but if your really want to see something very close to what I did try searching for the URSS Hymn and the picture of communist Bugs Bunny...
 
 ## **How To Compile This Program**
 
