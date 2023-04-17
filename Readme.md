@@ -1,12 +1,14 @@
-# **Communist Autorun v0.1**
+# **Kommunist Autorun v0.1**
 
 This is a funny autorun executable that I made intended to be used inside a thumb drive or similaries, with the objective of making people aware of the potential risks of inserting unknow USB flash drives in their computer. The executable by itself does nothing, justa show a program screen with an image and playing some music, the only available button just closes the program.
 
 This program or any associated files to it doesn't do anything harmful or collect any data from the computer user, the sole objective here is to cause some extende of surprise to the user.
 
-## **How to compile this program**
+**DISCLAIMER:** To avoid copyright problemas I'll not upload here images and sound used for my personal version, but if your really want to see something very close to what I did try searching for the URSS Hymn and the picture of communist Bugs Bunny...
 
-1. Download all files: autorun.py and autorun.spec
+## **How To Compile This Program**
+
+1. Download all files: `autorun.py` and `autorun.spec`
 2. Put on the same folder of the files downloaded an image file and a music file
 3. Personaly I suggest an image file with 600x600 pixel and in the jpeg format, or modifications on the code will be needed
 4. For the music file I suggest a file in the wav format, or there will be necessary to do modifications on the code too
@@ -18,11 +20,11 @@ This program or any associated files to it doesn't do anything harmful or collec
 
 If you really know about the things you don't really need tips, right? But if I can give my 2 cents advice here are some tips:
 
-1. You can change the size of the program screen and the imagem on the code
-2. The `def resource_path` part of the code is necessary for correct file managing and to the autorun works correctly in just one file. More information about this issue can be found on the following links:
+1. You can change the size of the program screen and the image file on the code
+2. The function `def resource_path` on the code is necessary for correct file managing and to the autorun works correctly in just one file. More information about this issue can be found on the following links:
    1. [Auto-py-to-exe: Only One File – WITH IMAGES – For Our Python Apps](https://pythonprogramming.altervista.org/auto-py-to-exe-only-one-file-with-images-for-our-python-apps/)
    2. [Stack Overflow - Bundling data files with PyInstaller (--onefile)](https://stackoverflow.com/questions/7674790/bundling-data-files-with-pyinstaller-onefile/13790741#13790741)
-3. If you want to use an personalyzed icon my suggestion is to use `auto-py-to-exe` for that, me personally couldn't do this directly with `Python Installer`. For that take a look on the first link above.
+3. If you want to use an personalyzed icon my suggestion is to use `auto-py-to-exe` package for that, me personally couldn't do this directly with `Python Installer`. For that take a look on the first link above.
 
 ### **Necessary packages**
 
